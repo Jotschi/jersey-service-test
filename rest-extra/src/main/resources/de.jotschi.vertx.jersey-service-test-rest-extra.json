@@ -1,0 +1,8 @@
+{
+  "main": "java-hk2:com.englishtown.vertx.jersey.JerseyVerticle",
+  "config": {
+    "resources": ["de.jotschi.vertx.example.resources"],
+    "port": 8000
+   }
+  
+}
